@@ -131,7 +131,7 @@ void *thread_function()
     pthread_exit("nice work!");
  }
  
- /*// this is the code for client 3. save this code as client3.c and then compile it using gcc client4.c -o client4 -lpthread*/
+ /*// this is the code for client 4. save this code as client3.c and then compile it using gcc client4.c -o client4 -lpthread*/
  
  #include<stdio.h>
 #include<stdlib.h>
